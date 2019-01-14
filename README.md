@@ -5,7 +5,7 @@ This is a simple project to test the functionality of the DynamicsWcfService pro
 clone the project to your pc.
 
 ## Run
-Make sure to open to instance of Visual Studio - First instance - open the DynamicsWcfService and run Main (this should start the service). Second instance - open this project and run Main.
+Make sure to open two instance of Visual Studio - First instance - open the DynamicsWcfService and run Main (this should start the service). Second instance - open this project and run Main.
 
 You should see a simple menu - waiting to your selection. follow the instruction to test the service.
 
